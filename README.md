@@ -1,7 +1,7 @@
 # TVbox自用接口
-（0）TVBox各路大佬接口（排名不分先后）：
+（0）TVBox各路大佬接口（复制即可）：
 
- 多个线路   http://rihou.vip:66
+ 线路合集   http://rihou.vip:66
 
   荷城茶秀  http://rihou.vip:99/荷城茶秀
 
