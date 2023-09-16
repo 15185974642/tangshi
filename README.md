@@ -121,8 +121,18 @@ https://notabug.org/
 
 （10）https://www.urlc.cn/
 
-7、TVBox各路大佬配置（排名不分先后）：
+7、TVBox各路大佬接口（排名不分先后）：
 
+ 多个线路   http://rihou.vip:66
+  荷城茶秀  http://rihou.vip:99/荷城茶秀
+  荷城茶秀  http://rihou.vip:88/荷城茶秀
+极狐线路：https://jihulab.com/xo2/fty/-/raw/main/xo.json
+应用多多线路：http://yydsys.top/duo
+饭太硬线路：http://饭太硬.top/tv
+肥猫线路：http://我不是.肥猫.love:63/接口禁止贩卖
+菜妮丝线路：https://tvbox.cainisi.cf
+道长线路：https://pastebin.com/raw/5NHaxyGR
+小米线路：http://xhww.fun:63/小米/DEMO.json
 （1）唐三：https://hutool.ml/tang
 
 （2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
