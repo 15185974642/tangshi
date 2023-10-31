@@ -84,6 +84,8 @@ Github 增强-高速下载 🔰https://greasyfork.org/zh-CN/scripts/412245
 
 新加坡 https://raw.kgithub.com/用户名/仓库名/main/接口文件
 
+加速仓库https://ghproxy.com/https://github.com/用户名/仓库名/main/接口文件
+
 日本 
 
 https://fastly.jsdelivr.net/gh/用户名/仓库名@main/接口文件
