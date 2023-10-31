@@ -3,7 +3,7 @@
 
 
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/15185974642/tangshi/main/baohe.jar",
+"spider":"https://download.kstore.space/download/5206/baohe.jar",
 
 "lives":[
 
@@ -24,7 +24,7 @@
     }],
 "sites":[
 {"key": "csp_XBPQ_6V",
-  "name": "🌈宝盒VIP专享",
+  "name": "🌈宝盒VIP",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
